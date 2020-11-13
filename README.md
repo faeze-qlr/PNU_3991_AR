@@ -14,7 +14,7 @@
 
 ## دروس کارشناسی مهندسی کامپیوتر
 
-[۱۳۲۲۰۳۵_۰۱ درس پروژه فتاوری اطلاعات	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/project)
+[۱۳۲۲۰۳۵_۰۱ درس پروژه فتاوری اطلاعات	3](https://github.com/faeze-qlr/PNU_3991_AR/tree/main/project)
 <br>
 [۱۳۲۲۰۱۰_۰۱	درس پژوهش و ارائه	3](https://github.com/faeze-qlr/PNU_3991_AR/tree/main/pazhuhesh)
 <br>
@@ -48,7 +48,7 @@
   </tr>
    <tr>
      <th ></th>
-     <th ></th>
+     <th ><a  href="https://github.com/faeze-qlr/PNU_3991_AR/tree/main/pazhuhesh">درس پژوهش و ارائه</a></th>
      <th></th>
      <th></th>
     <th ></th>   
@@ -56,7 +56,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th ><a  href="https://github.com/faeze-qlr/PNU_3991/tree/main/pazhuhesh">درس پژوهش و ارائه</a></th>
+    <th ></th>
     <th></th>
     <th></th>
     <th ></th>
