@@ -32,7 +32,7 @@
  
  <tr>
  <td  align="center">https://minaghasemi7.github.io/sop/</td>
- <td  align="center">https://mohamadimahnaz.github.io/resome/</td>
+ <td  align="center">https://minaghasemi7.github.io/sop/</td>
  <td  align="center">مینا قاسمی</td>
  <td  align="center">980199613</td>
  <td align="center">2</td>
