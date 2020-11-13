@@ -14,9 +14,9 @@
 
 ## دروس کارشناسی مهندسی کامپیوتر
 
-[1115026_01 درس پروژه فتاوری اطلاعات	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/project)
+[۱۳۲۲۰۳۵_۰۱ درس پروژه فتاوری اطلاعات	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/project)
 <br>
-[1115280_01	درس پژوهش و ارائه	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/pazhuhesh)
+[۱۳۲۲۰۱۰_۰۱	درس پژوهش و ارائه	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/pazhuhesh)
 <br>
 
 ## روز و ساعت ارائه دروس
@@ -56,7 +56,7 @@
   </tr>
    <tr>
     <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/pazhuhesh">درس پژوهش و ارائه</a></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/main/pazhuhesh">درس پژوهش و ارائه</a></th>
     <th></th>
     <th></th>
     <th ></th>
