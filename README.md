@@ -9,6 +9,14 @@
 
 - [SOP](https://faeze-qlr.github.io/me/SOP.pdf)
 
+- [Certificates]
+
+- [JS](https://faeze-qlr.github.io/me/JS.pdf)
+
+- [Github](http://jlord.us/patchwork/)
+
+- [Phyton]
+
 ------------------
 ## Winter Semester Courses 2020/2021
 
