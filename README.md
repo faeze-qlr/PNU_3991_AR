@@ -9,7 +9,7 @@
 
 - [SOP](https://faeze-qlr.github.io/me/SOP.pdf)
 
-- [Certificates]
+# Certificates
 
 - [JS](https://faeze-qlr.github.io/me/JS.pdf)
 
