@@ -2,21 +2,40 @@
 ---------
 ### فائزه قلار
  
----
-- [پیج گیت هاب](https://faeze-qlr.github.io/me/)
+------------------
+- [پیج گیت هاب](https://github.com/faeze-qlr/me)
+- [پیج باHTML](https://faeze-qlr.github.io/me/)
+- [PNU_3991_AR](https://github.com/faeze-qlr/PNU_3991_AR/)
+- [رزومه](https://faeze-qlr.github.io/me/resume-both.pdf)
+- [انگیزه نامه](https://faeze-qlr.github.io/me/SOP-fa.pdf)
+- [SOP EN](https://faeze-qlr.github.io/me/SOP.pdf)
+- [Resume EN](https://faeze-qlr.github.io/me/resume-both.pdf)
 
-- [رزومه](https://faeze-qlr.github.io/me/faeze-qollar.pdf)
-
-- [SOP](https://faeze-qlr.github.io/me/SOP.pdf)
-
+- [فایل لاتک صفحات ۱۵۴-۱۵۶](https://github.com/faeze-qlr/me/blob/main/b-154-156.qlr.tex)
+- [فایل pdf صفحات ۱۵۴-۱۵۶](https://faeze-qlr.github.io/me/b154-156.qlr.pdf)
+- [فایل لاتک beamer صفحات ۱۵۴-۱۵۶](https://github.com/faeze-qlr/me/blob/main/p154-165(qlr)beamer.tex)
+- [فایل pdf beamer صفحات ۱۵۴-۱۵۶](https://faeze-qlr.github.io/me/154-156(qlr)beamer.pdf)
+------------------
 # Certificates
 
 - [JS](https://faeze-qlr.github.io/me/JS.pdf)
-
-- [Github](http://jlord.us/patchwork/)
-
+- [Patchwork](http://jlord.us/patchwork/)
 - [Phyton]
 
+------------------
+
+# Projects
+
+- [بررسی درس مشابه در دانشگاه Humber ](https://faeze-qlr.github.io/me/Research%20-qlr.pdf)
+- [بررسی پایان نامه روش پژوهش ](https://faeze-qlr.github.io/me/پایان%20نامه%20روش%20پژوهش.pdf)
+
+------------------
+
+# ارزشیابی
+
+- [ارزشبابی عمومی ۱](https://github.com/faeze-qlr/me/blob/main/XX_CV_CheckList_AR_3991-qlr.pdf)
+- [ارزشبابی عمومی ۲](https://faeze-qlr.github.io/me/XX_GeneralSection_CheckList_AR_3991-qlr.pdf)
+- [ارزشبابی تخصصی](https://faeze-qlr.github.io/me/FQ_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 ------------------
 ## Winter Semester Courses 2020/2021
 
